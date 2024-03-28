@@ -22,7 +22,7 @@ function moveLeft()
                 paragraph.style.fontSize = '1.5rem'
                 const setText = () => 
                 {
-                    paragraph.innerText = "Denis Nkarichia "
+                    paragraph.innerText = "Carlton Asava "
                 }
                 setInterval(setText, 800)
               
@@ -37,7 +37,7 @@ function moveLeft()
                 const div = document.createElement("div");
                 div.setAttribute("class", "box")
                 div.innerHTML = `<ul>
-                <li class="list">ADM: SCT221-0805/2021</li>
+                <li class="list">ADM: Sct221-0761/2021</li>
             
                 </ul>`
                 child.append(div)
